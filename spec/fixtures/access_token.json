@@ -1,5 +1,0 @@
-{
-  "access_token": "myaccesstoken",
-  "scope": "user:email,read:org",
-  "token_type": "bearer"
-}
